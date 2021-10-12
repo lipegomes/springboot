@@ -1,4 +1,4 @@
-# **Estudo de utilização do Spring Boot com MySQL, Doker e Linux**
+# **Estudo de utilização do Spring Boot com MySQL, Docker e Linux**
 
 Estudo de utilização do Spring Boot com MySQL localmente no Doker utilizando Linux.
 
