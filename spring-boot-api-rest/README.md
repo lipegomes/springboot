@@ -1,15 +1,16 @@
-# **Api Rest utilizando o Spring Boot com MySQL, Docker e Linux**
+# Api Rest utilizando o Spring Boot com MySQL, Docker e Linux
 
 Estudo de desenvolvimeneto de uma Api  Rest utilizando Spring Boot com MySQL localmente no Doker utilizando Linux.
 
 
-## **1 - Spring Boot Security Auto-Configuration **
+## 1 - Spring Boot Security Auto-Configuration
 
 Após iniciar a aplicação será necessário acessar o link abaixo e utilizar os dados de acesso para validar o usuário:
 
 http://localhost:8080/login
 
 Username: admin
+
 Password: 123456
 
 A configiração do Spring Boot Security está no arquivo application.properties dentro da pasta resources.
